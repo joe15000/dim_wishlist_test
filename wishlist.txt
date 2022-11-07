@@ -1,0 +1,6 @@
+title:Test DIM Wishlist
+description:Destiny 2 Test DIM Wishlist
+
+// Aisha's Embrace Hammer, HighCal, TrippleTap, FocusedFury, Stability, Alacrity
+//notes: Aisha's for PvE tags:pc,pve
+dimwishlist:item=2638190703&perks=3250034553,1561002382,3400784728,2896038713
